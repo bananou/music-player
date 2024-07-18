@@ -28,7 +28,7 @@ Follow these steps to get a local copy up and running:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/music-player.git
+   git clone https://github.com/bananou/music-player.git
 2. Open the project in your code editor.
 3. Open index.html in your browser to view and use the music player.
 
